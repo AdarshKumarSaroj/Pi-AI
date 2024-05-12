@@ -1,0 +1,4 @@
+you have to create a .env file  and then put these stuff in that
+
+Session="XXXXXXXXXXXXXXXXXXX"     #here will be your Conversation Id id
+cookie ="XXXXXXXXXXXXXXXXXXX"     # here Will be your Cookie
